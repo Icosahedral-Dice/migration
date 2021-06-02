@@ -22,7 +22,7 @@ Last updated: Jun 2nd, 2021
     + a robustness check, discarding unique IDs with < 50% coverage.
     
 ## Results
-The coefficients on 
+The coefficients on  
 (1) **Openness (30 mins)**:  
 [Number of residents whose home tract is in 30mins and work tract is 30mins+ away]  
 ÷  
