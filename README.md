@@ -22,9 +22,20 @@ Last updated: Jun 2nd, 2021
     + a robustness check, discarding unique IDs with < 50% coverage.
     
 ## Results
+The coefficients on 
 (1) **Openness (30 mins)**:  
 [Number of residents whose home tract is in 30mins and work tract is 30mins+ away]  
 ÷  
 [Number of residents living within 30mins]  
 `output/analysis/heterogeneity_analysis_112220/hetero_case_by_case_new/partial_balanced_panel/final_graphs/multi_reg_060121/regression_outcomes_commuting6`
+
+<img width="647" alt="image" src="https://user-images.githubusercontent.com/81217775/120424014-26e93980-c39e-11eb-950f-9f6ca6f826ad.png">
+
+(2) **Openness (10mins)**:  
+[Number of residents whose home tract is in 10mins and work tract is 10mins+ away]  
+÷  
+[Number of residents living within 10mins]  
+`output/analysis/heterogeneity_analysis_112220/hetero_case_by_case_new/partial_balanced_panel/final_graphs/multi_reg_060121/regression_outcomes_commuting7`
+
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/81217775/120423836-c954ed00-c39d-11eb-8ee7-1d27cff3d6c2.png">
 
